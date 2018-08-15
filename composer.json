@@ -1,0 +1,13 @@
+{
+    "name": "everest/patterns",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}
